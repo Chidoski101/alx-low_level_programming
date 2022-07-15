@@ -6,3 +6,6 @@ File 4-rev_array.c is a 2nd pointer, array and strings assignment
 File 5-string_toupper.c is a 2nd pointer, array and strings assignment
 File 6-cap_string.c is a 2nd pointer, array and strings assignment
  File 7-leet.c is a 2nd pointer, array and strings assignment
+File 100-rot13.c is a 2nd pointer, array and strings assignment
+File 101-print_number.c is a 2nd pointer, array and strings assignment.
+File 102-magic.c is a 2nd pointer, array and strings assignment.
