@@ -9,3 +9,5 @@ File 6-cap_string.c is a 2nd pointer, array and strings assignment
 File 100-rot13.c is a 2nd pointer, array and strings assignment
 File 101-print_number.c is a 2nd pointer, array and strings assignment.
 File 102-magic.c is a 2nd pointer, array and strings assignment.
+File 101-print_number.c is a 2nd pointer, array and strings assignment
+File 102-magic.c is a 2nd pointer, array and strings assignment
